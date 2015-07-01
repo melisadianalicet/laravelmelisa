@@ -1,6 +1,6 @@
 ## Laravel PHP Framework
 
-## proyecto hecho por diana santana, liceth benavides, melisa martela
+## proyecto hecho por diana santana, liceth benavides, melisa martelo
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)

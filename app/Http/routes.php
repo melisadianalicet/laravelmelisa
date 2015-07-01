@@ -82,5 +82,4 @@ Route::get('modificarnotafinal',['as'=>'modificarnotafinal','uses'=>'BusquedaCon
 Route::post('iralmenu',['as'=>'iralmenu','uses'=>'BusquedaController@iralmenu']);
 Route::get('menu',['as'=>'menu','uses'=>'BusquedaController@menu']);
 
-
-
+Route::get('registro',['as'=>'registro','uses'=>'RegistrosController@registro']);
